@@ -1,0 +1,25 @@
+This is my Cs final project for the second semester. This project is based on C language completely.
+
+Project Description:
+
+This project is a simple banking system implemented in C programming language. It allows users to interact with 
+the system as either employees or customers to perform various banking operations such as opening an account, accessing an
+existing account, depositing money, withdrawing money, and editing account details. The program utilizes basic file 
+handling techniques for storing and retrieving user data.
+
+Features:
+
+1. Employee Access: Employees can access the database to view all existing user accounts.
+2. Customer Operations: Customers can open a bank account, access an existing account using their username and passcode, deposit money, withdraw money, and edit their account details.
+3. Password Validation: The system enforces password security by ensuring that passwords contain at least one integer, one symbol, and are at least 8 characters long.
+4. Data Validation: User input is validated at various stages to ensure correctness and prevent errors.
+5. Simple Interface: Users interact with the system through a simple command-line interface.
+
+
+Usage:
+
+* Run the program.
+* Choose whether you are an employee or a customer.
+* If you're an employee, you can access the database or go back to the main menu.
+* If you're a customer, you can open a new account, access an existing account, or go back to the main menu.
+* Follow the prompts to perform desired operations such as opening an account, depositing money, withdrawing money, or editing account details.
